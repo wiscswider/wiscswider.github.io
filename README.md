@@ -3,9 +3,7 @@
 
 <img src="assets/email.png" alt="email" width="30" height="30"/> 
 zac.swider at gmail
-<img src="assets/github" alt="email" width="30" height="30"/> 
-github.com/zacswider
-
+<br>
 <a href="https://github.com/zacswider">
     <img src="assets/github.png" alt="github" width="30" height="30"/> 
     github.com/zacswider
