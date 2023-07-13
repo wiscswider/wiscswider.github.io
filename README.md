@@ -1,16 +1,18 @@
-![Cover Photo](/assets/spindles.jpeg)
-
+<div style="position: relative;">
+    <img src="/assets/spindles.jpeg" alt="Cover Photo" style="width: 100%;">
+    <img src="/assets/headshot.jpeg" alt="Headshot Photo" style="position: absolute; bottom: 0; left: 10px; width: 150px;">
+</div>
 
 <img src="assets/email.png" alt="email" width="30" height="30"/> 
 zac.swider at gmail
 <br>
 <a href="https://github.com/zacswider">
-    <img src="assets/github.png" alt="github" width="30" height="30"/> 
+    <img src="assets/github.png" alt="github" width="27" height="27"/> 
     github.com/zacswider
 </a>
 <br>
 <a href="https://scholar.google.com/citations?user=AXP4TbcAAAAJ&hl=en">
-    <img src="assets/scholar.png" alt="Google Scholar" width="30" height="30"/> 
+    <img src="assets/scholar.png" alt="Google Scholar" width="24" height="24"/> 
     Google Scholar Profile
 </a>
 
