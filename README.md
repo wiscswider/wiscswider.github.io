@@ -1,6 +1,9 @@
 ![Cover Photo](/assets/spindles.jpeg)
 
-[![email](assets/email.png)](mailto:youremail@example.com) <a href="mailto:youremail@example.com">youremail@example.com</a>
+<a href="mailto:youremail@example.com">
+    <img src="assets/email.png" alt="email" width="30" height="30"/> 
+    youremail@example.com
+</a>
 
 _I have a long background (over ten years) of using advanced fluorescence imaging approaches to uncover some of the many mysteries in cell biology. Over time I have become a hybrid software engineer / biologist, where I use my background in the wet lab and behind the microscope to inform appropriate processing and analytical decisions. I completed my Ph.D. in Bill Bement's lab at UW-Madison where I optimized high-speed imaging approaches to study a fascinating dance between the Rho GTPases and their effectors. I also established simple and extremely effective computational approaches to quantify otherwise overwhelmingly complex time-lapse datasets. I currently work at Elephas Biosciences where my team and I are developing advanced 3D imaging and analysis approaches for live human tumor fragments._
 
