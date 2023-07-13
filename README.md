@@ -1,7 +1,9 @@
+
 <div style="position: relative;">
     <img src="/assets/spindles.jpeg" alt="Cover Photo" style="width: 100%;">
-    <img src="/assets/headshot.jpeg" alt="Headshot Photo" style="position: absolute; bottom: 0; left: 10px; width: 150px;">
+    <img src="/assets/headshot.jpeg" alt="Headshot Photo" style="position: absolute; bottom: -20px; left: 10px; width: 150px; border-radius: 50%;">
 </div>
+
 
 <img src="assets/email.png" alt="email" width="30" height="30"/> 
 zac.swider at gmail
