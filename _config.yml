@@ -1,2 +1,4 @@
 theme: minimal-mistakes-jekyll
 title: My Personal Website
+header:
+  image: /assets/spindles.jpeg
