@@ -1,6 +1,3 @@
 theme: minima
-title: My Personal Website updated
-minima:
-  social_links:
-    - { platform: github,  user_url: "https://github.com/jekyll/jekyll" }
-    - { platform: twitter, user_url: "https://twitter.com/jekyllrb" }
+title: Zac Swider's Digital CV
+google_analytics: UA-NNNNNNNN-N
