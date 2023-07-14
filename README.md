@@ -7,7 +7,8 @@
 <br>
 <img src="assets/email.png" alt="email" width="30" height="30"/> 
 zac.swider at gmail
-<br>
+<div style="margin-bottom: 0.5em;"></div>
+
 <a href="https://github.com/zacswider">
     <img src="assets/github.png" alt="github" width="27" height="27"/> 
     github.com/zacswider
