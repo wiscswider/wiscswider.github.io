@@ -13,11 +13,15 @@ zac.swider at gmail
     <img src="assets/github.png" alt="github" width="27" height="27"/> 
     github.com/zacswider
 </a>
-<br>
+<div style="margin-bottom: 0.5em;"></div>
+
 <a href="https://scholar.google.com/citations?user=AXP4TbcAAAAJ&hl=en">
-    <img src="assets/scholar.png" alt="Google Scholar" width="24" height="24"/> 
+    <img src="assets/scholar" alt="Google Scholar" width="27" height="27"/> 
     Google Scholar Profile
 </a>
+<div style="margin-bottom: 0.5em;"></div>
+
+## About Me
 
 _I have a long background (over ten years) of using advanced fluorescence imaging approaches to uncover some of the many mysteries in cell biology. Over time I have become a hybrid software engineer / biologist, where I use my background in the wet lab and behind the microscope to inform appropriate processing and analytical decisions. I completed my Ph.D. in Bill Bement's lab at UW-Madison where I optimized high-speed imaging approaches to study a fascinating dance between the Rho GTPases and their effectors. I also established simple and extremely effective computational approaches to quantify otherwise overwhelmingly complex time-lapse datasets. I currently work at Elephas Biosciences where my team and I are developing advanced 3D imaging and analysis approaches for live human tumor fragments._
 
