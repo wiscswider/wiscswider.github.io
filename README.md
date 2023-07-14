@@ -7,19 +7,19 @@
 <br>
 <img src="assets/email.png" alt="email" width="30" height="30"/> 
 zac.swider at gmail
-<div style="margin-bottom: 0.5em;"></div>
+<div style="margin-bottom: 0.25em;"></div>
 
 <a href="https://github.com/zacswider">
     <img src="assets/github.png" alt="github" width="27" height="27"/> 
     github.com/zacswider
 </a>
-<div style="margin-bottom: 0.5em;"></div>
+<div style="margin-bottom: 0.25em;"></div>
 
 <a href="https://scholar.google.com/citations?user=AXP4TbcAAAAJ&hl=en">
-    <img src="assets/scholar" alt="Google Scholar" width="27" height="27"/> 
+    <img src="assets/scholar.png" alt="Google Scholar" width="27" height="27"/> 
     Google Scholar Profile
 </a>
-<div style="margin-bottom: 0.5em;"></div>
+<div style="margin-bottom: 0.25em;"></div>
 
 ## About Me
 
