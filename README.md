@@ -23,7 +23,7 @@ zac.swider at gmail
 
 ## About Me
 
-_I have an extensive background using advanced fluorescence imaging approaches to uncover some of the many mysteries in cell biology. Over time I have become a hybrid software developer / microscopist, where I use my background in the wet lab and behind the microscope to inform appropriate processing and analytical decisions. I completed my Ph.D. in Bill Bement's lab at UW-Madison where I optimized high-speed imaging approaches to study a fascinating dance between the Rho GTPases and their effectors. I also established simple and extremely effective computational approaches to quantify otherwise overwhelmingly complex time-lapse datasets. I currently work at Elephas Biosciences where my team and I are developing advanced 3D imaging and analysis approaches for live human tumor fragments._
+_I have an extensive background using advanced fluorescence imaging approaches to uncover some of the many mysteries in cell biology. Over time I have transitioned to becoming primarily a software developer, where I use my background in the wet lab and behind the microscope to inform appropriate processing and analytical decisions. I completed my Ph.D. in Bill Bement's lab at UW-Madison where I optimized high-speed imaging approaches to study a fascinating dance between the Rho GTPases and their effectors. I also established simple and extremely effective computational approaches to quantify otherwise overwhelmingly complex time-lapse datasets. I currently work at Elephas Biosciences where my team and I are developing advanced 3D imaging and analysis approaches for live human tumor fragments._
 
 ## Education and Technical Training
 2022 | Ph.D. | [University of Wisconsin, Madison](https://cmb.wisc.edu/)  
