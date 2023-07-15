@@ -16,8 +16,8 @@ zac.swider at gmail
 <div style="margin-bottom: 0.25em;"></div>
 
 <a href="https://scholar.google.com/citations?user=AXP4TbcAAAAJ&hl=en">
-    <img src="assets/scholar.png" alt="Google Scholar" width="20" height="20"/> 
-    Google Scholar Profile
+    <img src="assets/scholar.png" alt="Google Scholar" width="21" height="21"/> 
+     Google Scholar Profile
 </a>
 <div style="margin-bottom: 0.25em;"></div>
 
