@@ -16,7 +16,7 @@ zac.swider at gmail
 <div style="margin-bottom: 0.25em;"></div>
 
 <a href="https://scholar.google.com/citations?user=AXP4TbcAAAAJ&hl=en">
-    <img src="assets/scholar.png" alt="Google Scholar" width="23" height="23"/> 
+    <img src="assets/scholar.png" alt="Google Scholar" width="20" height="20"/> 
     Google Scholar Profile
 </a>
 <div style="margin-bottom: 0.25em;"></div>
@@ -92,3 +92,14 @@ _I have an extensive background using advanced fluorescence imaging approaches t
 **Oregon Institute of Marine Biology | 2013 | Undergraduate Researcher
 - Used live imaging and IHC to identify a putative role for the _Micrura alaskensis_ homolog of Orthodenticle in promoting the differentiation of cells that make up the primary ciliated band.
 
+## Cover Photos
+<div style="position: relative; width: 100%;">
+    <img src="/assets/splactin_cover.png" alt="Spindle Actin Cover Photo" style="width: 100%;">
+</div>
+[Kita*, Swider*, et al. (2019) Spindle–F-actin interactions in mitotic spindles in an intact vertebrate epithelium. Mol Biol Cell. 30(14):1645-1654.](https://www.molbiolcell.org/doi/10.1091/mbc.E19-02-0126?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed)
+*co-first authors
+
+<div style="position: relative; width: 100%;">
+    <img src="/assets/fip_cover.png" alt="FIP Cover Photo" style="width: 100%;">
+</div>
+[Swider*, Ng*, et al. (2019) Fascetto interacting protein ensures proper cytokinesis and ploidy. Mol Biol Cell. 30(8):992-1007.](https://www.molbiolcell.org/doi/10.1091/mbc.E18-09-0573?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed)
