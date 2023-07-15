@@ -45,7 +45,7 @@ _I have an extensive background using advanced fluorescence imaging approaches t
 
 ### Management and teamwork
 - I currently manage a team of scientists at Elephas Biosciences focused on developing advanced imaging and analysis approaches for two-photon/TCSPC images of human tumor fragments.
-- Co-managed a shared imaging facility (1 Bruker swept field confocal, 1 Prairie point scanning confocal, 1 Olympus FV1000 confocal, 1 Flamingo light sheet system) to maximize system use, minimize the impact of routine maintenance, and enhance system features. Educated new users on system features, analysis techniques, and best practices. 
+- Co-managed a shared imaging facility at UW-Madison (consisting of a Bruker swept field confocal, a Prairie point scanning confocal, an Olympus FV1000 confocal, and a Flamingo light sheet system) to maximize system use, minimize the impact of routine maintenance, and enhance system features. Educated new users on system features, analysis techniques, and best practices. 
 - Mentored 4 undergraduates over the course of 4 years to learn modern molecular biology and imaging approaches as well as scientific reading and writing proficiency.
 
 ### Cell and Molecular Biology
