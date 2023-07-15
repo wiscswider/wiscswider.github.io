@@ -10,7 +10,7 @@ zac.swider at gmail
 <div style="margin-bottom: 0.25em;"></div>
 
 <a href="https://github.com/zacswider">
-    <img src="assets/github.png" alt="github" width="27" height="27"/> 
+    <img src="assets/github.png" alt="github" width="26" height="26"/> 
     github.com/zacswider
 </a>
 <div style="margin-bottom: 0.25em;"></div>
